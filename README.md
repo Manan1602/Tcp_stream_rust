@@ -7,6 +7,7 @@ This employs Ascynchronous working for sending and receiving data
 Open two seperate instances of Terminal and simply perform the following each on one instance:
 
 `cd {client / server}`
+
 `cargo run {client / server}`
 
 **Note:** The server needs to be started first as there won't be a machine to establish connection with for the client otherwise.
